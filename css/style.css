@@ -221,7 +221,7 @@ header{
 
 .course:hover{
     background: transparent;
-    border-color: var(--color-primary)
+    border-color: var(--color-primary);
 }
 
 
@@ -408,7 +408,7 @@ padding: 3rem;
     }
 
     .nav__menu{
-        position: fixed;
+        position: fixed;/*didnt understand*/
         top: 5rem;
         right: 5%;
         height: fit-content;
@@ -582,6 +582,8 @@ padding: 3rem;
     .header__left p{
         margin-bottom: 3rem;
     }
+
+    
 
 
 
